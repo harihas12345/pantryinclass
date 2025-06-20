@@ -1,0 +1,14 @@
+{
+  "resourceName": "s32bc9edc7",
+  "policyUUID": "2bc9edc7",
+  "bucketName": "pantapp67ab755c02484cada9d76047a58caebf",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "S3Trigger77490214",
+  "groupAccess": {}
+}

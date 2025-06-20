@@ -1,0 +1,11 @@
+{
+  "AppSyncApiName": "pantapp",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authpantapp362eb461",
+      "Outputs.UserPoolId"
+    ]
+  }
+}

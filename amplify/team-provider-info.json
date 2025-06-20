@@ -1,0 +1,32 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-pantapp-dev-3584a-authRole",
+      "UnauthRoleArn": "arn:aws:iam::724772090394:role/amplify-pantapp-dev-3584a-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::724772090394:role/amplify-pantapp-dev-3584a-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-pantapp-dev-3584a-deployment",
+      "UnauthRoleName": "amplify-pantapp-dev-3584a-unauthRole",
+      "StackName": "amplify-pantapp-dev-3584a",
+      "StackId": "arn:aws:cloudformation:us-east-2:724772090394:stack/amplify-pantapp-dev-3584a/591d35a0-478e-11f0-8885-0a9abea6f26f",
+      "AmplifyAppId": "d36acx8dms0nfw"
+    },
+    "categories": {
+      "auth": {
+        "pantapp362eb461": {}
+      },
+      "function": {
+        "S3Trigger77490214": {
+          "deploymentBucketName": "amplify-pantapp-dev-3584a-deployment",
+          "s3Key": "amplify-builds/S3Trigger77490214-6b4a396c545335677765-build.zip"
+        }
+      },
+      "storage": {
+        "s32bc9edc7": {}
+      },
+      "api": {
+        "pantapp": {}
+      }
+    }
+  }
+}
